@@ -1,0 +1,154 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ReadingFiles",
+            "request": "launch",
+            "mainClass": "ReadingFiles",
+            "projectName": "Java_be24d511"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AreaOfRect",
+            "request": "launch",
+            "mainClass": "AreaOfRect",
+            "projectName": "Java_be24d511"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayLists",
+            "request": "launch",
+            "mainClass": "ArrayLists",
+            "projectName": "Java_be24d511"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "Java_be24d511"
+        },
+        {
+            "type": "java",
+            "name": "Launch Booleans",
+            "request": "launch",
+            "mainClass": "Booleans",
+            "projectName": "Java_be24d511"
+        },
+        {
+            "type": "java",
+            "name": "Launch Decimals",
+            "request": "launch",
+            "mainClass": "Decimals",
+            "projectName": "Java_be24d511"
+        },
+        {
+            "type": "java",
+            "name": "Launch Functions",
+            "request": "launch",
+            "mainClass": "Functions",
+            "projectName": "Java_be24d511"
+        },
+        {
+            "type": "java",
+            "name": "Launch Gender",
+            "request": "launch",
+            "mainClass": "Gender",
+            "projectName": "Java_be24d511"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "Java_be24d511"
+        },
+        {
+            "type": "java",
+            "name": "Launch IfElse",
+            "request": "launch",
+            "mainClass": "IfElse",
+            "projectName": "Java_be24d511"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interests",
+            "request": "launch",
+            "mainClass": "Interests",
+            "projectName": "Java_be24d511"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "Java_be24d511"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_be24d511"
+        },
+        {
+            "type": "java",
+            "name": "Launch NestedLoops",
+            "request": "launch",
+            "mainClass": "NestedLoops",
+            "projectName": "Java_be24d511"
+        },
+        {
+            "type": "java",
+            "name": "Launch Points",
+            "request": "launch",
+            "mainClass": "Points",
+            "projectName": "Java_be24d511"
+        },
+        {
+            "type": "java",
+            "name": "Launch Survey",
+            "request": "launch",
+            "mainClass": "Survey",
+            "projectName": "Java_be24d511"
+        },
+        {
+            "type": "java",
+            "name": "Launch Switch",
+            "request": "launch",
+            "mainClass": "Switch",
+            "projectName": "Java_be24d511"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoDArray",
+            "request": "launch",
+            "mainClass": "TwoDArray",
+            "projectName": "Java_be24d511"
+        },
+        {
+            "type": "java",
+            "name": "Launch TypeCasting",
+            "request": "launch",
+            "mainClass": "TypeCasting",
+            "projectName": "Java_be24d511"
+        },
+        {
+            "type": "java",
+            "name": "Launch WholeNumbers",
+            "request": "launch",
+            "mainClass": "WholeNumbers",
+            "projectName": "Java_be24d511"
+        }
+    ]
+}

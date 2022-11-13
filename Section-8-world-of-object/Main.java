@@ -5,7 +5,7 @@ public class Main {
          String[] parts = {"Tyres", "engines"};
         Car nissan = new Car("Nissan", 400000.00, 2002, "Blue", parts);
         Car toyota = new Car("Toyota", 20000.00, 2005, "Red", parts);
-        Car toyota2 = new Car(toyota);
+        //Car toyota2 = new Car(toyota);
 
         Car[] cars = new Car[] {
             new Car("Nissan", 400000.00, 2002, "Blue", parts),
